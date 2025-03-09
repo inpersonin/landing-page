@@ -1,0 +1,82 @@
+body {
+    font: "roboto";
+}
+.top {
+    background-color: #1F2937
+}
+.header {
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.nav {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+h2 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+
+}
+.subheader p {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+.sign {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+.sign img {
+
+}
+.middle {
+    
+}
+h3 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+.middle img {
+    border: 10px solid #3882F6; 
+}
+.middle p {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+.middle2 {
+    background-color: #E5E7EB;
+
+}
+.middle2 p  {
+    font-size: 36px;
+    color: #1F2937;
+}
+.middle2 a {
+ font-size: 24px;
+}
+ .foot {
+    background-color: #3882F6;
+    
+ }
+ .foot h4 {
+    font-size: 24px;
+    color: #F9FAF8;
+ }
+ .foot p {
+    font-size: 18px;
+    color: #F9FAF8;
+ }
+ .font a {
+    font-size: 20px;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+ }
+ .footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 18px;
+ }
