@@ -1,6 +1,7 @@
 body {
     font: "roboto";
     margin: 0;
+    
 }
 .top {
 
@@ -19,7 +20,7 @@ flex-direction: column;
     margin: 0;
     display: flex;
     flex-direction: row;
-    gap: 1000px;
+    gap: 700px;
     
     
 }
@@ -56,7 +57,7 @@ flex-direction: column;
     margin-top: 50px;
     display: flex;
     flex-direction: row;
-    gap: 250px;
+    gap: 200px;
 }
 .h2 {
     margin: 0;
@@ -160,11 +161,10 @@ h3 {
 .middle2   {
    display: flex; 
     flex: 1;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    flex-direction: row;
     height: 250px;
     margin: 50px 0 75px;
+    justify-content: center;
    
 
 }
@@ -176,8 +176,7 @@ h3 {
     font-weight: 300;
     text-align: center;
     width: 40%;
-    margin-top: 50px;
-    margin-bottom: 0;
+    
   
 
 
@@ -186,8 +185,7 @@ h3 {
     
     font-style: normal;
     font-size: 26px;
-    margin-left:  800px;
-    margin-bottom: 50px;
+   align-self: flex-end;
 
     
 
@@ -199,18 +197,19 @@ h3 {
 .fbox {
     background-color: #3882F6;
     border-radius: 5px;
-    margin-bottom: 30px;
+    margin-bottom: 70px;
     height: 100px;
     display:flex; 
     flex-direction: row;
     justify-self: center;
-    width: 40%;
+    width: 70%;
+    gap: 450px;
     
 }
  .foot {
-    display: flex;
-    align-self: flex-start;
+    display: flex; 
     flex-direction: column;
+    margin-top: 5px;
     
    
  }
@@ -225,6 +224,7 @@ h3 {
     font-size: 18px;
     color: #F9FAF8;
     margin: 0 0 0 50px;
+    align-self: flex-end;
     
 
  }
@@ -241,8 +241,9 @@ h3 {
     
  }
  .fa {
+    
     display: flex;
-    align-self: flex-end;
+    align-self: center;
 
     
     
